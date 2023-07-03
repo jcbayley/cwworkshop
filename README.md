@@ -2,7 +2,7 @@
 
 Workshop on how to use the wide parameter space search tool SOAP and how machine learning is used within SOAP.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcbayley/cwwworkshop/blob/main/cwworkshop_soap.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcbayley/cwworkshop/blob/main/cwworkshop_soap.ipynb)
 
 ## Running locally
 
