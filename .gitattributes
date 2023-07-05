@@ -1,2 +1,5 @@
 data/freq_100.0_104.1_8160_even.hdf5 filter=lfs diff=lfs merge=lfs -text
 data/freq_100.0_104.1_8160_odd.hdf5 filter=lfs diff=lfs merge=lfs -text
+pretrained_model_config/model_vitmapspectrogram_for_odd.pt filter=lfs diff=lfs merge=lfs -text
+data/freq_100.0_106.1_3120_even.hdf5 filter=lfs diff=lfs merge=lfs -text
+data/freq_100.0_106.1_3120_odd.hdf5 filter=lfs diff=lfs merge=lfs -text
